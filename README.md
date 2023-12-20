@@ -2,5 +2,6 @@
 
 ✨Win the game!
 
-![image](https://github.com/rahulrajput-rr/Guess-Game/assets/104721504/5a8742e1-b141-4db0-97a1-037a1b61bd81)
+![image](https://github.com/rahulrajput-rr/Guess-Game/assets/104721504/1a164eff-0614-4555-ae44-216886b1b777)
+
 
